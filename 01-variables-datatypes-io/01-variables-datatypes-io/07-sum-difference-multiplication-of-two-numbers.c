@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main () {
+    // calculating sum, difference and multiplication of two integers
     int a, b;
     printf("enter first number: ");
     scanf("%d", &a);
