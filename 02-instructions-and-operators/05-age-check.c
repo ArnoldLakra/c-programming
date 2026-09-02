@@ -4,7 +4,7 @@ int main () {
     // 1 is true
     // 0 is false
     int age;
-    printf("enter your age: ");
+    printf("enter your age:  ");
     scanf("%d", &age);
     printf("your age is above 18: %d", age>=18);
     return 0;
