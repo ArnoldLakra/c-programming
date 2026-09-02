@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main () {
     // comparing two numbers
-    //here we are assuming 1 is true and 0 is false
-    //the output guves either 0 or 1
+    // here 1 is true and 0 is false
+    // the output guves either 0 or 1
     int a,b;
     printf("enter first number: ");
     scanf("%d", &a);
