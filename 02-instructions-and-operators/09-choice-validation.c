@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main () {
+    // the user entered 1 or 2, if not then the staement is false
     // 1 is true and 0 is false
     int a;
     printf("enter a number:  ");
