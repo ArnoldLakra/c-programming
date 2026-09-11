@@ -5,7 +5,7 @@ int main() {
     scanf("%d", &n);
     for(int i=1; i<=n; i++) {   // runs the code till the number n
         int isprime=1;          // isprime is written in for loop becuase the process has to repeat again for a new number check
-        if(n<2) {
+        if(i<2) {
         } else {
             for(int j=2; j<=i-1; j++) {    // checking if the number is prime
                 if(i%j==0) {
