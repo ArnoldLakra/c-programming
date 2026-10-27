@@ -7,5 +7,8 @@ My C programming learning journey - concepts, practice programs, and projects.
 - if else and switch statements with break and continue
 - ternary statements
 - for, while, do while loops
+- return functions and void functions
+- arrays
+- pointers
 ## Practice
 This repository contains my practice programs and projects as i learn C.
